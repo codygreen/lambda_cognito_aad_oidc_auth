@@ -63,7 +63,7 @@ command.
  * `cdk diff`        compare deployed stack with current state
  * `cdk docs`        open CDK documentation
 
-# Prerequisits 
+# Prerequisites 
 You will need to create your Cognito User Pool and configure the federation to Azure AD.  I recommend the following article to help you:
 https://dev.to/danielbayerlein/how-to-use-azure-ad-b2c-as-idp-for-amazon-cognito-28nj
 
